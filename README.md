@@ -1,44 +1,28 @@
-=# Hi, I'm Jasjovan Singh 👋
+# Hi, I'm Jasjovan
 
-### Computer Science Student at UA92
+I'm a Computer Science student at UA92 and I'm using GitHub to upload projects, keep track of my work, and improve my coding over time.
 
-I'm passionate about technology, software development, and building practical solutions that combine creativity with technical skill. I enjoy working on projects involving databases, system design, user experience, and web development.
+At the moment, I'm interested in things like software development, databases, web development, and UI/UX. I'm still learning, but I'm always trying to build my skills through university work, personal projects, and anything practical I can get involved in.
 
-## 🚀 About Me
-- Computer Science student
-- Interested in software, systems, and digital product development
-- Focused on building practical projects and improving my technical skills
-- Always learning and looking for new challenges
+## A bit about me
+- Computer Science student at UA92
+- Basic knowledge of HTML and CSS
+- Comfortable using tools like VS Code, SQLiteStudio, Excel, Word, PowerPoint, Google Docs and Sheets
+- Interested in building useful and well-designed digital projects
+- Always looking to improve and learn more
 
-## 🛠 Tech & Tools
-- HTML
-- CSS
-- SQL
-- GitHub
-- VS Code
-- SQLiteStudio
-- Microsoft Office
-- Google Docs / Sheets / Slides
+## What you'll find on here
+Most of my GitHub will be made up of university work, practice projects, and anything else I build while learning. I'm mainly using it as a place to show my progress and develop my skills properly.
 
-## 📚 Currently Learning
-- Better software development practices
-- Database design and querying
-- UI/UX design principles
-- Full-stack development fundamentals
+## Current focus
+Right now I'm working on improving my understanding of:
+- software development
+- databases
+- system design
+- web development
+- user experience
 
-## 🎯 Goals
-- Build a strong portfolio of projects
-- Improve coding confidence and consistency
-- Create useful and well-structured applications
-- Continue growing as a developer
+## Goal
+My main goal is to keep improving, build a strong portfolio, and become more confident with coding and development in general.
 
-## 🤝 Soft Skills
-- Communication
-- Teamwork
-- Organisation
-- Leadership
-- Event planning
-- Adaptability
-
-## 📌 Final Note
-This GitHub is where I share my projects, track my growth, and continue developing my skills as a future software professional.
+Thanks for checking out my profile.
